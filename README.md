@@ -2,7 +2,7 @@
 <h3 align="center">Almost every publicly available CVE PoC.</h3>
 
 # Current hottest CVEs
-[placeholder]
+[placeholder]  
 To see the complete history go [here](hot_cves.csv)
 
 

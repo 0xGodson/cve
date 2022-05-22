@@ -45,7 +45,9 @@
 All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHub issues](https://github.com/trickest/cve/issues) or tweet at us [@trick3st](https://twitter.com/trick3st).
 
 # Current hottest CVEs
-[placeholder]    
+cve/CVE-2022-1388.md at main · trickest/cve · GitHub;https://github.com/trickest/cve/blob/main/2022/CVE-2022-1388.md
+cve/CVE-2022-0001.md at main · trickest/cve · GitHub;https://github.com/trickest/cve/blob/main/2022/CVE-2022-0001.md
+cve/CVE-2021-22945.md at main · trickest/cve;https://github.com/trickest/cve/blob/main/2021/CVE-2021-22945.md
 To see the complete history go [here](hot_cves.csv)
 
 ## Build your own workflows

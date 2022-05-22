@@ -1,8 +1,9 @@
 <h1 align="center">CVE PoC <a href="https://twitter.com/intent/tweet?text=CVE%20PoC%20-%20Find%20almost%20every%20publicly%20available%20CVE%20Proof-of-Concept%2E%0Ahttps%3A%2F%2Fgithub%2Ecom%2Ftrickest%2Fcve%0A&hashtags=cve,poc,vulnerability,vulnerabilities,exploit,infosec,cybersecurity"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
 <h3 align="center">Almost every publicly available CVE PoC.</h3>
 
-# Current hottest CVEs
+## Current hottest CVEs
 [placeholder]  
+  
 To see the complete history go [here](hot_cves.csv)
 
 
@@ -48,12 +49,6 @@ To see the complete history go [here](hot_cves.csv)
 
 ## Contribution
 All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHub issues](https://github.com/trickest/cve/issues) or tweet at us [@trick3st](https://twitter.com/trick3st).
-
-# Current hottest CVEs
-- [cve/CVE-2022-1388.md at main · trickest/cve · GitHub](https://github.com/trickest/cve/blob/main/2022/CVE-2022-1388.md)  
-- [cve/CVE-2022-0001.md at main · trickest/cve · GitHub](https://github.com/trickest/cve/blob/main/2022/CVE-2022-0001.md)  
-- [cve/CVE-2021-22945.md at main · trickest/cve](https://github.com/trickest/cve/blob/main/2021/CVE-2021-22945.md)  
-To see the complete history go [here](hot_cves.csv)
 
 ## Build your own workflows
 

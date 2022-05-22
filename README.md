@@ -45,7 +45,7 @@
 All contribtutions/ideas/suggestions are welcome! Create a new ticket via [GitHub issues](https://github.com/trickest/cve/issues) or tweet at us [@trick3st](https://twitter.com/trick3st).
 
 # Current hottest CVEs
-[placeholder]
+[placeholder]  
 To see the complete history go [here](hot_cves.csv)
 
 ## Build your own workflows

@@ -2,10 +2,13 @@
 <h3 align="center">Almost every publicly available CVE PoC.</h3>
 
 ## Current hottest CVEs
-- [cve/CVE-2022-0001.md at main · trickest/cve · GitHub](https://github.com/trickest/cve/blob/main/2022/CVE-2022-0001.md)  
-- [cve/CVE-2022-1388.md at main · trickest/cve · GitHub](https://github.com/trickest/cve/blob/main/2022/CVE-2022-1388.md)  
-- [cve/CVE-2021-22945.md at main · trickest/cve](https://github.com/trickest/cve/blob/main/2021/CVE-2021-22945.md)  
-- [cve/CVE-2022-25582.md at main · trickest/cve · GitHub](https://github.com/trickest/cve/blob/main/2022/CVE-2022-25582.md)  
+| Title      | URL |  
+| ----------- | ----------- |  
+| cve/CVE-2022-0001.md at main · trickest/cve · GitHub      | [https://github.com/trickest/cve/blob/main/2022/CVE-2022-0001.md](https://github.comhttps://github.com/trickest/cve/blob/main/2022/CVE-2022-0001.md) |  
+| cve/CVE-2022-1388.md at main · trickest/cve · GitHub      | [https://github.com/trickest/cve/blob/main/2022/CVE-2022-1388.md](https://github.comhttps://github.com/trickest/cve/blob/main/2022/CVE-2022-1388.md) |  
+| cve/CVE-2021-22945.md at main · trickest/cve      | [https://github.com/trickest/cve/blob/main/2021/CVE-2021-22945.md](https://github.comhttps://github.com/trickest/cve/blob/main/2021/CVE-2021-22945.md) |  
+| cve/CVE-2022-25582.md at main · trickest/cve · GitHub      | [https://github.com/trickest/cve/blob/main/2022/CVE-2022-25582.md](https://github.comhttps://github.com/trickest/cve/blob/main/2022/CVE-2022-25582.md) |  
+
 To see the complete history go [here](hot_cves.csv)
 
 
